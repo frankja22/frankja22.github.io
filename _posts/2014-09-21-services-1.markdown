@@ -1,8 +1,10 @@
 ---
 layout: default
-img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+#img: ipad.png
+category: Cennik
+title: Cennik
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  * większe firmy, grupy - 25 PLN,
+  * osoby indywidualne oraz przy krótszych pobytach - 25-40 PLN,
+  * firmy z Ukrainy - pobyty długoterminowe - ceny do negocjacji. 
